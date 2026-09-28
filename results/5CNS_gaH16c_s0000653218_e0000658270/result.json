@@ -1,0 +1,2612 @@
+{
+  "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+  "file_path": "L:\\FPT\\Side project\\Capstone\\resources\\VN-AV-DF-Capstone\\data\\manifests\\dataset_v1\\reviews\\exports\\clips\\nguyenlamanh\\5CNS_gaH16c_s0000653218_e0000658270.mp4",
+  "decision": "manual",
+  "reason": "ambiguous",
+  "voiced_ms": 5000,
+  "visible_active_speech_ratio": 0.72,
+  "unexplained_speech_ratio": 0.0,
+  "longest_unexplained_speech_ms": 0,
+  "static_ms": 0,
+  "voiceover_ms": 0,
+  "ambiguous_ms": 1400,
+  "primary_speaker_track_id": 0,
+  "early_exit_tier": 2,
+  "timeline": [
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 0,
+      "start_ms": 0,
+      "end_ms": 200,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 13.805178268251272,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 1,
+      "start_ms": 200,
+      "end_ms": 400,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 12.725382003395586,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 2,
+      "start_ms": 400,
+      "end_ms": 600,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 8.061120543293718,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 3,
+      "start_ms": 600,
+      "end_ms": 800,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 4.3136672325976235,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 4,
+      "start_ms": 800,
+      "end_ms": 1000,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 6.345500848896434,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 5,
+      "start_ms": 1000,
+      "end_ms": 1200,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 6.053904923599321,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 6,
+      "start_ms": 1200,
+      "end_ms": 1400,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 5.532682512733446,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 7,
+      "start_ms": 1400,
+      "end_ms": 1600,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 6.081494057724957,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 8,
+      "start_ms": 1600,
+      "end_ms": 1800,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 6.120967741935484,
+      "mouth_frozen": false,
+      "light_asd_score": 0.9591606855392456,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 9,
+      "start_ms": 1800,
+      "end_ms": 2000,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 7.557724957555179,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 10,
+      "start_ms": 2000,
+      "end_ms": 2200,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 8.217317487266554,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 11,
+      "start_ms": 2200,
+      "end_ms": 2400,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 2,
+      "mouth_motion": 10.08106960950764,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": 0.8988810136914254,
+      "laser_requested": true,
+      "asd_disagreement": false,
+      "multiple_competing_faces": true,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 12,
+      "start_ms": 2400,
+      "end_ms": 2600,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 2,
+      "mouth_motion": 13.30390492359932,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": 1.0,
+      "laser_requested": true,
+      "asd_disagreement": false,
+      "multiple_competing_faces": true,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 13,
+      "start_ms": 2600,
+      "end_ms": 2800,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 4.784380305602716,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 14,
+      "start_ms": 2800,
+      "end_ms": 3000,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 8,
+      "face_track_count": 2,
+      "mouth_motion": null,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 15,
+      "start_ms": 3000,
+      "end_ms": 3200,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 2,
+      "mouth_motion": 10.914261460101867,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": 1.0,
+      "laser_requested": true,
+      "asd_disagreement": false,
+      "multiple_competing_faces": true,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 16,
+      "start_ms": 3200,
+      "end_ms": 3400,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 2,
+      "mouth_motion": 8.659592529711375,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": 1.0,
+      "laser_requested": true,
+      "asd_disagreement": false,
+      "multiple_competing_faces": true,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 17,
+      "start_ms": 3400,
+      "end_ms": 3600,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 7.83616298811545,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 18,
+      "start_ms": 3600,
+      "end_ms": 3800,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 11.02376910016978,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 19,
+      "start_ms": 3800,
+      "end_ms": 4000,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 16.11672325976231,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 20,
+      "start_ms": 4000,
+      "end_ms": 4200,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 1,
+      "mouth_motion": 14.54541595925297,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 21,
+      "start_ms": 4200,
+      "end_ms": 4400,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 3,
+      "mouth_motion": 14.387945670628183,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": 0.986983123421669,
+      "laser_requested": true,
+      "asd_disagreement": false,
+      "multiple_competing_faces": true,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 22,
+      "start_ms": 4400,
+      "end_ms": 4600,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 3,
+      "mouth_motion": 29.847198641765704,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": 0.9098980531096459,
+      "laser_requested": true,
+      "asd_disagreement": false,
+      "multiple_competing_faces": true,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 23,
+      "start_ms": 4600,
+      "end_ms": 4800,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 0,
+      "face_track_count": 2,
+      "mouth_motion": 10.605263157894736,
+      "mouth_frozen": false,
+      "light_asd_score": 1.0,
+      "laser_score": 1.0,
+      "laser_requested": true,
+      "asd_disagreement": false,
+      "multiple_competing_faces": true,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 24,
+      "start_ms": 4800,
+      "end_ms": 5000,
+      "speech": true,
+      "face_visible": true,
+      "selected_track_id": 10,
+      "face_track_count": 2,
+      "mouth_motion": 0.1298811544991511,
+      "mouth_frozen": true,
+      "light_asd_score": 0.566312849521637,
+      "laser_score": 0.9013431623578072,
+      "laser_requested": true,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    },
+    {
+      "clip_id": "5CNS_gaH16c_s0000653218_e0000658270",
+      "bin_index": 25,
+      "start_ms": 5000,
+      "end_ms": 5200,
+      "speech": false,
+      "face_visible": false,
+      "selected_track_id": -1,
+      "face_track_count": 0,
+      "mouth_motion": null,
+      "mouth_frozen": false,
+      "light_asd_score": null,
+      "laser_score": null,
+      "laser_requested": false,
+      "asd_disagreement": false,
+      "multiple_competing_faces": false,
+      "inference_failure": false
+    }
+  ],
+  "roi_trajectory": [
+    {
+      "frame": 0,
+      "is_speaking": true,
+      "raw_bbox": [
+        838.5,
+        252.0,
+        1291.5,
+        705.0
+      ],
+      "padded_roi": [
+        725,
+        139,
+        1405,
+        818
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 1,
+      "is_speaking": true,
+      "raw_bbox": [
+        837.375,
+        253.0,
+        1289.625,
+        705.25
+      ],
+      "padded_roi": [
+        724,
+        140,
+        1403,
+        818
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 2,
+      "is_speaking": true,
+      "raw_bbox": [
+        837.1,
+        253.0,
+        1286.7,
+        702.6
+      ],
+      "padded_roi": [
+        725,
+        141,
+        1399,
+        815
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 3,
+      "is_speaking": true,
+      "raw_bbox": [
+        835.1,
+        251.2,
+        1283.1,
+        699.2
+      ],
+      "padded_roi": [
+        723,
+        139,
+        1395,
+        811
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 4,
+      "is_speaking": true,
+      "raw_bbox": [
+        834.2,
+        244.6,
+        1278.6,
+        689.0
+      ],
+      "padded_roi": [
+        723,
+        134,
+        1390,
+        800
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 5,
+      "is_speaking": true,
+      "raw_bbox": [
+        833.1,
+        233.9,
+        1271.4,
+        672.2
+      ],
+      "padded_roi": [
+        724,
+        124,
+        1381,
+        782
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 6,
+      "is_speaking": true,
+      "raw_bbox": [
+        830.1,
+        221.1,
+        1263.6,
+        654.6
+      ],
+      "padded_roi": [
+        722,
+        113,
+        1372,
+        763
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 7,
+      "is_speaking": true,
+      "raw_bbox": [
+        825.5,
+        206.7,
+        1255.3,
+        636.5
+      ],
+      "padded_roi": [
+        718,
+        99,
+        1363,
+        744
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 8,
+      "is_speaking": true,
+      "raw_bbox": [
+        819.9,
+        193.5,
+        1245.3,
+        618.9
+      ],
+      "padded_roi": [
+        714,
+        87,
+        1352,
+        725
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 9,
+      "is_speaking": true,
+      "raw_bbox": [
+        814.0,
+        183.7,
+        1233.1,
+        602.8
+      ],
+      "padded_roi": [
+        709,
+        79,
+        1338,
+        708
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 10,
+      "is_speaking": true,
+      "raw_bbox": [
+        809.1,
+        176.6,
+        1220.5,
+        588.0
+      ],
+      "padded_roi": [
+        706,
+        74,
+        1323,
+        691
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 11,
+      "is_speaking": true,
+      "raw_bbox": [
+        804.2,
+        172.1,
+        1208.9,
+        576.8
+      ],
+      "padded_roi": [
+        703,
+        71,
+        1310,
+        678
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 12,
+      "is_speaking": true,
+      "raw_bbox": [
+        799.0,
+        169.7,
+        1198.2,
+        568.9
+      ],
+      "padded_roi": [
+        699,
+        70,
+        1298,
+        669
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 13,
+      "is_speaking": true,
+      "raw_bbox": [
+        794.5,
+        170.2,
+        1188.4,
+        564.1
+      ],
+      "padded_roi": [
+        696,
+        72,
+        1287,
+        663
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 14,
+      "is_speaking": true,
+      "raw_bbox": [
+        790.0,
+        171.4,
+        1180.0,
+        561.4
+      ],
+      "padded_roi": [
+        692,
+        74,
+        1278,
+        659
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 15,
+      "is_speaking": true,
+      "raw_bbox": [
+        784.8,
+        172.3,
+        1174.8,
+        562.3
+      ],
+      "padded_roi": [
+        687,
+        75,
+        1272,
+        660
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 16,
+      "is_speaking": true,
+      "raw_bbox": [
+        779.9,
+        173.0,
+        1171.4,
+        564.5
+      ],
+      "padded_roi": [
+        682,
+        75,
+        1269,
+        662
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 17,
+      "is_speaking": true,
+      "raw_bbox": [
+        775.8,
+        174.1,
+        1169.6,
+        567.9
+      ],
+      "padded_roi": [
+        677,
+        76,
+        1268,
+        666
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 18,
+      "is_speaking": true,
+      "raw_bbox": [
+        771.5,
+        174.8,
+        1169.4,
+        572.7
+      ],
+      "padded_roi": [
+        672,
+        75,
+        1269,
+        672
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 19,
+      "is_speaking": true,
+      "raw_bbox": [
+        767.4,
+        175.1,
+        1169.6,
+        577.3
+      ],
+      "padded_roi": [
+        667,
+        75,
+        1270,
+        678
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 20,
+      "is_speaking": true,
+      "raw_bbox": [
+        764.2,
+        176.0,
+        1168.4,
+        580.2
+      ],
+      "padded_roi": [
+        663,
+        75,
+        1269,
+        681
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 21,
+      "is_speaking": true,
+      "raw_bbox": [
+        762.9,
+        176.8,
+        1166.5,
+        580.4
+      ],
+      "padded_roi": [
+        662,
+        76,
+        1267,
+        681
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 22,
+      "is_speaking": true,
+      "raw_bbox": [
+        763.0,
+        176.9,
+        1164.1,
+        578.0
+      ],
+      "padded_roi": [
+        663,
+        77,
+        1264,
+        678
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 23,
+      "is_speaking": true,
+      "raw_bbox": [
+        763.5,
+        176.3,
+        1162.3,
+        575.1
+      ],
+      "padded_roi": [
+        664,
+        77,
+        1262,
+        675
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 24,
+      "is_speaking": true,
+      "raw_bbox": [
+        764.0,
+        175.0,
+        1162.3,
+        573.3
+      ],
+      "padded_roi": [
+        664,
+        75,
+        1262,
+        673
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 25,
+      "is_speaking": true,
+      "raw_bbox": [
+        765.3,
+        173.9,
+        1162.3,
+        570.9
+      ],
+      "padded_roi": [
+        666,
+        75,
+        1262,
+        670
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 26,
+      "is_speaking": true,
+      "raw_bbox": [
+        766.4,
+        173.7,
+        1161.6,
+        568.9
+      ],
+      "padded_roi": [
+        668,
+        75,
+        1260,
+        668
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 27,
+      "is_speaking": true,
+      "raw_bbox": [
+        765.9,
+        173.2,
+        1162.0,
+        569.3
+      ],
+      "padded_roi": [
+        667,
+        74,
+        1261,
+        668
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 28,
+      "is_speaking": true,
+      "raw_bbox": [
+        764.8,
+        172.4,
+        1162.4,
+        570.0
+      ],
+      "padded_roi": [
+        665,
+        73,
+        1262,
+        669
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 29,
+      "is_speaking": true,
+      "raw_bbox": [
+        764.3,
+        172.2,
+        1161.6,
+        569.5
+      ],
+      "padded_roi": [
+        665,
+        73,
+        1261,
+        669
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 30,
+      "is_speaking": true,
+      "raw_bbox": [
+        763.6,
+        171.7,
+        1161.4,
+        569.5
+      ],
+      "padded_roi": [
+        664,
+        72,
+        1261,
+        669
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 31,
+      "is_speaking": true,
+      "raw_bbox": [
+        762.4,
+        171.1,
+        1161.7,
+        570.4
+      ],
+      "padded_roi": [
+        663,
+        71,
+        1262,
+        670
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 32,
+      "is_speaking": true,
+      "raw_bbox": [
+        762.1,
+        171.6,
+        1160.7,
+        570.2
+      ],
+      "padded_roi": [
+        662,
+        72,
+        1260,
+        670
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 33,
+      "is_speaking": true,
+      "raw_bbox": [
+        762.6,
+        172.8,
+        1158.9,
+        569.1
+      ],
+      "padded_roi": [
+        664,
+        74,
+        1258,
+        668
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 34,
+      "is_speaking": true,
+      "raw_bbox": [
+        762.7,
+        173.8,
+        1157.5,
+        568.6
+      ],
+      "padded_roi": [
+        664,
+        75,
+        1256,
+        667
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 35,
+      "is_speaking": true,
+      "raw_bbox": [
+        762.9,
+        174.9,
+        1155.6,
+        567.6
+      ],
+      "padded_roi": [
+        665,
+        77,
+        1254,
+        666
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 36,
+      "is_speaking": true,
+      "raw_bbox": [
+        763.5,
+        175.9,
+        1153.3,
+        565.7
+      ],
+      "padded_roi": [
+        666,
+        78,
+        1251,
+        663
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 37,
+      "is_speaking": true,
+      "raw_bbox": [
+        763.3,
+        176.1,
+        1152.1,
+        564.9
+      ],
+      "padded_roi": [
+        666,
+        79,
+        1249,
+        662
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 38,
+      "is_speaking": true,
+      "raw_bbox": [
+        762.4,
+        175.9,
+        1151.5,
+        565.0
+      ],
+      "padded_roi": [
+        665,
+        79,
+        1249,
+        662
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 39,
+      "is_speaking": true,
+      "raw_bbox": [
+        761.4,
+        176.3,
+        1151.1,
+        566.0
+      ],
+      "padded_roi": [
+        664,
+        79,
+        1249,
+        663
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 40,
+      "is_speaking": true,
+      "raw_bbox": [
+        759.8,
+        177.0,
+        1151.8,
+        569.0
+      ],
+      "padded_roi": [
+        662,
+        79,
+        1250,
+        667
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 41,
+      "is_speaking": true,
+      "raw_bbox": [
+        757.8,
+        178.9,
+        1153.3,
+        574.4
+      ],
+      "padded_roi": [
+        659,
+        80,
+        1252,
+        673
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 42,
+      "is_speaking": true,
+      "raw_bbox": [
+        756.6,
+        182.7,
+        1154.1,
+        580.2
+      ],
+      "padded_roi": [
+        657,
+        83,
+        1253,
+        680
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 43,
+      "is_speaking": true,
+      "raw_bbox": [
+        755.7,
+        186.7,
+        1154.0,
+        585.0
+      ],
+      "padded_roi": [
+        656,
+        87,
+        1254,
+        685
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 44,
+      "is_speaking": true,
+      "raw_bbox": [
+        754.5,
+        189.9,
+        1153.4,
+        588.8
+      ],
+      "padded_roi": [
+        655,
+        90,
+        1253,
+        689
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 45,
+      "is_speaking": true,
+      "raw_bbox": [
+        753.0,
+        191.5,
+        1153.2,
+        591.7
+      ],
+      "padded_roi": [
+        653,
+        91,
+        1253,
+        692
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 46,
+      "is_speaking": true,
+      "raw_bbox": [
+        751.0,
+        190.6,
+        1153.7,
+        593.3
+      ],
+      "padded_roi": [
+        650,
+        90,
+        1254,
+        694
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 47,
+      "is_speaking": true,
+      "raw_bbox": [
+        749.5,
+        188.4,
+        1153.5,
+        592.4
+      ],
+      "padded_roi": [
+        648,
+        87,
+        1254,
+        693
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 48,
+      "is_speaking": true,
+      "raw_bbox": [
+        749.0,
+        186.6,
+        1152.8,
+        590.4
+      ],
+      "padded_roi": [
+        648,
+        86,
+        1254,
+        691
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 49,
+      "is_speaking": true,
+      "raw_bbox": [
+        748.7,
+        185.9,
+        1153.4,
+        590.6
+      ],
+      "padded_roi": [
+        648,
+        85,
+        1255,
+        692
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 50,
+      "is_speaking": true,
+      "raw_bbox": [
+        748.6,
+        187.1,
+        1154.4,
+        592.9
+      ],
+      "padded_roi": [
+        647,
+        86,
+        1256,
+        694
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 51,
+      "is_speaking": true,
+      "raw_bbox": [
+        749.7,
+        189.4,
+        1154.8,
+        594.5
+      ],
+      "padded_roi": [
+        648,
+        88,
+        1256,
+        696
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 52,
+      "is_speaking": true,
+      "raw_bbox": [
+        751.0,
+        191.6,
+        1156.0,
+        596.6
+      ],
+      "padded_roi": [
+        650,
+        90,
+        1257,
+        698
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 53,
+      "is_speaking": true,
+      "raw_bbox": [
+        753.8,
+        193.1,
+        1158.9,
+        598.2
+      ],
+      "padded_roi": [
+        653,
+        92,
+        1260,
+        699
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 54,
+      "is_speaking": true,
+      "raw_bbox": [
+        758.9,
+        193.2,
+        1161.7,
+        596.0
+      ],
+      "padded_roi": [
+        658,
+        92,
+        1262,
+        697
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 55,
+      "is_speaking": true,
+      "raw_bbox": [
+        765.8,
+        191.5,
+        1166.3,
+        592.0
+      ],
+      "padded_roi": [
+        666,
+        91,
+        1266,
+        692
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 56,
+      "is_speaking": true,
+      "raw_bbox": [
+        773.5,
+        188.8,
+        1173.7,
+        589.0
+      ],
+      "padded_roi": [
+        673,
+        89,
+        1274,
+        689
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 57,
+      "is_speaking": true,
+      "raw_bbox": [
+        781.8,
+        187.4,
+        1183.3,
+        588.9
+      ],
+      "padded_roi": [
+        681,
+        87,
+        1284,
+        689
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 58,
+      "is_speaking": true,
+      "raw_bbox": [
+        789.4,
+        187.9,
+        1194.2,
+        592.7
+      ],
+      "padded_roi": [
+        688,
+        87,
+        1295,
+        694
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 59,
+      "is_speaking": true,
+      "raw_bbox": [
+        795.2,
+        192.7,
+        1204.3,
+        601.8
+      ],
+      "padded_roi": [
+        693,
+        90,
+        1307,
+        704
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 60,
+      "is_speaking": true,
+      "raw_bbox": [
+        799.7,
+        202.2,
+        1211.7,
+        614.2
+      ],
+      "padded_roi": [
+        697,
+        99,
+        1315,
+        717
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 61,
+      "is_speaking": true,
+      "raw_bbox": [
+        803.0,
+        212.0,
+        1217.4,
+        626.4
+      ],
+      "padded_roi": [
+        699,
+        108,
+        1321,
+        730
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 62,
+      "is_speaking": true,
+      "raw_bbox": [
+        805.3,
+        219.8,
+        1222.0,
+        636.5
+      ],
+      "padded_roi": [
+        701,
+        116,
+        1326,
+        741
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 63,
+      "is_speaking": true,
+      "raw_bbox": [
+        805.5,
+        223.9,
+        1224.4,
+        642.8
+      ],
+      "padded_roi": [
+        701,
+        119,
+        1329,
+        748
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 64,
+      "is_speaking": true,
+      "raw_bbox": [
+        804.7,
+        221.9,
+        1226.7,
+        643.9
+      ],
+      "padded_roi": [
+        699,
+        116,
+        1332,
+        749
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 65,
+      "is_speaking": true,
+      "raw_bbox": [
+        803.6,
+        216.4,
+        1227.7,
+        640.5
+      ],
+      "padded_roi": [
+        698,
+        110,
+        1334,
+        747
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 66,
+      "is_speaking": true,
+      "raw_bbox": [
+        802.1,
+        211.8,
+        1226.4,
+        636.1
+      ],
+      "padded_roi": [
+        696,
+        106,
+        1332,
+        742
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 67,
+      "is_speaking": true,
+      "raw_bbox": [
+        799.9,
+        207.6,
+        1223.1,
+        630.8
+      ],
+      "padded_roi": [
+        694,
+        102,
+        1329,
+        737
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 68,
+      "is_speaking": true,
+      "raw_bbox": [
+        798.1,
+        205.5,
+        1218.9,
+        626.3
+      ],
+      "padded_roi": [
+        693,
+        100,
+        1324,
+        732
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 69,
+      "is_speaking": true,
+      "raw_bbox": [
+        796.8,
+        205.7,
+        1213.6,
+        622.5
+      ],
+      "padded_roi": [
+        693,
+        101,
+        1318,
+        727
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 70,
+      "is_speaking": false,
+      "raw_bbox": [
+        795.3,
+        205.6,
+        1208.4,
+        618.7
+      ],
+      "padded_roi": [
+        692,
+        102,
+        1312,
+        722
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 71,
+      "is_speaking": false,
+      "raw_bbox": [
+        793.4,
+        205.1,
+        1205.2,
+        616.9
+      ],
+      "padded_roi": [
+        690,
+        102,
+        1308,
+        720
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 72,
+      "is_speaking": false,
+      "raw_bbox": [
+        791.4,
+        204.7,
+        1203.7,
+        617.0
+      ],
+      "padded_roi": [
+        688,
+        102,
+        1307,
+        720
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 73,
+      "is_speaking": false,
+      "raw_bbox": [
+        790.5,
+        206.9,
+        1204.4,
+        620.8
+      ],
+      "padded_roi": [
+        687,
+        103,
+        1308,
+        724
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 74,
+      "is_speaking": false,
+      "raw_bbox": [
+        790.6,
+        211.5,
+        1207.5,
+        628.4
+      ],
+      "padded_roi": [
+        686,
+        107,
+        1312,
+        733
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 75,
+      "is_speaking": true,
+      "raw_bbox": [
+        791.1,
+        218.5,
+        1211.8,
+        639.2
+      ],
+      "padded_roi": [
+        686,
+        113,
+        1317,
+        744
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 76,
+      "is_speaking": true,
+      "raw_bbox": [
+        792.2,
+        228.0,
+        1215.4,
+        651.2
+      ],
+      "padded_roi": [
+        686,
+        122,
+        1321,
+        757
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 77,
+      "is_speaking": true,
+      "raw_bbox": [
+        794.0,
+        234.9,
+        1217.5,
+        658.4
+      ],
+      "padded_roi": [
+        688,
+        129,
+        1323,
+        764
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 78,
+      "is_speaking": true,
+      "raw_bbox": [
+        795.3,
+        236.7,
+        1217.6,
+        659.0
+      ],
+      "padded_roi": [
+        690,
+        131,
+        1323,
+        765
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 79,
+      "is_speaking": true,
+      "raw_bbox": [
+        795.7,
+        233.5,
+        1216.7,
+        654.5
+      ],
+      "padded_roi": [
+        690,
+        128,
+        1322,
+        760
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 80,
+      "is_speaking": true,
+      "raw_bbox": [
+        795.8,
+        225.3,
+        1216.0,
+        645.5
+      ],
+      "padded_roi": [
+        691,
+        120,
+        1321,
+        751
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 81,
+      "is_speaking": true,
+      "raw_bbox": [
+        796.0,
+        214.1,
+        1214.7,
+        632.8
+      ],
+      "padded_roi": [
+        691,
+        109,
+        1319,
+        737
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 82,
+      "is_speaking": true,
+      "raw_bbox": [
+        796.2,
+        205.0,
+        1213.6,
+        622.4
+      ],
+      "padded_roi": [
+        692,
+        101,
+        1318,
+        727
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 83,
+      "is_speaking": true,
+      "raw_bbox": [
+        796.3,
+        199.7,
+        1211.4,
+        614.8
+      ],
+      "padded_roi": [
+        693,
+        96,
+        1315,
+        719
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 84,
+      "is_speaking": true,
+      "raw_bbox": [
+        796.7,
+        198.1,
+        1207.1,
+        608.5
+      ],
+      "padded_roi": [
+        694,
+        96,
+        1310,
+        711
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 85,
+      "is_speaking": true,
+      "raw_bbox": [
+        796.2,
+        199.1,
+        1201.6,
+        604.5
+      ],
+      "padded_roi": [
+        695,
+        98,
+        1303,
+        706
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 86,
+      "is_speaking": true,
+      "raw_bbox": [
+        794.4,
+        200.7,
+        1195.7,
+        602.0
+      ],
+      "padded_roi": [
+        694,
+        100,
+        1296,
+        702
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 87,
+      "is_speaking": true,
+      "raw_bbox": [
+        790.8,
+        201.4,
+        1190.7,
+        601.3
+      ],
+      "padded_roi": [
+        691,
+        101,
+        1291,
+        701
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 88,
+      "is_speaking": true,
+      "raw_bbox": [
+        785.5,
+        199.5,
+        1187.9,
+        601.9
+      ],
+      "padded_roi": [
+        685,
+        99,
+        1288,
+        702
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 89,
+      "is_speaking": true,
+      "raw_bbox": [
+        781.4,
+        196.0,
+        1186.3,
+        600.9
+      ],
+      "padded_roi": [
+        680,
+        95,
+        1288,
+        702
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 90,
+      "is_speaking": true,
+      "raw_bbox": [
+        779.7,
+        192.0,
+        1185.0,
+        597.3
+      ],
+      "padded_roi": [
+        678,
+        91,
+        1286,
+        699
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 91,
+      "is_speaking": true,
+      "raw_bbox": [
+        779.6,
+        188.2,
+        1183.7,
+        592.3
+      ],
+      "padded_roi": [
+        679,
+        87,
+        1285,
+        693
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 92,
+      "is_speaking": true,
+      "raw_bbox": [
+        781.6,
+        186.1,
+        1181.1,
+        585.6
+      ],
+      "padded_roi": [
+        682,
+        86,
+        1281,
+        685
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 93,
+      "is_speaking": true,
+      "raw_bbox": [
+        783.2,
+        185.5,
+        1178.7,
+        581.0
+      ],
+      "padded_roi": [
+        684,
+        87,
+        1278,
+        680
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 94,
+      "is_speaking": true,
+      "raw_bbox": [
+        781.5,
+        185.4,
+        1177.5,
+        581.4
+      ],
+      "padded_roi": [
+        682,
+        86,
+        1276,
+        680
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 95,
+      "is_speaking": true,
+      "raw_bbox": [
+        776.2,
+        188.3,
+        1173.9,
+        586.0
+      ],
+      "padded_roi": [
+        677,
+        89,
+        1273,
+        685
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 96,
+      "is_speaking": true,
+      "raw_bbox": [
+        768.1,
+        193.5,
+        1168.2,
+        593.6
+      ],
+      "padded_roi": [
+        668,
+        93,
+        1268,
+        694
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 97,
+      "is_speaking": true,
+      "raw_bbox": [
+        757.4,
+        200.5,
+        1162.8,
+        605.9
+      ],
+      "padded_roi": [
+        656,
+        99,
+        1264,
+        707
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 98,
+      "is_speaking": true,
+      "raw_bbox": [
+        746.6,
+        209.5,
+        1156.2,
+        619.1
+      ],
+      "padded_roi": [
+        644,
+        107,
+        1259,
+        722
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 99,
+      "is_speaking": true,
+      "raw_bbox": [
+        737.3,
+        218.8,
+        1147.6,
+        629.1
+      ],
+      "padded_roi": [
+        635,
+        116,
+        1250,
+        732
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 100,
+      "is_speaking": true,
+      "raw_bbox": [
+        729.8,
+        225.9,
+        1140.6,
+        636.7
+      ],
+      "padded_roi": [
+        627,
+        123,
+        1243,
+        739
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 101,
+      "is_speaking": true,
+      "raw_bbox": [
+        725.0,
+        228.2,
+        1136.8,
+        640.0
+      ],
+      "padded_roi": [
+        622,
+        125,
+        1240,
+        743
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 102,
+      "is_speaking": true,
+      "raw_bbox": [
+        722.7,
+        226.2,
+        1133.8,
+        637.3
+      ],
+      "padded_roi": [
+        620,
+        123,
+        1237,
+        740
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 103,
+      "is_speaking": true,
+      "raw_bbox": [
+        722.7,
+        219.9,
+        1131.6,
+        628.8
+      ],
+      "padded_roi": [
+        620,
+        118,
+        1234,
+        731
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 104,
+      "is_speaking": true,
+      "raw_bbox": [
+        723.4,
+        211.0,
+        1131.0,
+        618.6
+      ],
+      "padded_roi": [
+        622,
+        109,
+        1233,
+        720
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 105,
+      "is_speaking": true,
+      "raw_bbox": [
+        726.4,
+        201.6,
+        1132.5,
+        607.7
+      ],
+      "padded_roi": [
+        625,
+        100,
+        1234,
+        709
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 106,
+      "is_speaking": true,
+      "raw_bbox": [
+        730.8,
+        194.3,
+        1134.5,
+        598.0
+      ],
+      "padded_roi": [
+        630,
+        93,
+        1235,
+        699
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 107,
+      "is_speaking": true,
+      "raw_bbox": [
+        734.0,
+        189.5,
+        1136.2,
+        591.7
+      ],
+      "padded_roi": [
+        633,
+        89,
+        1237,
+        692
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 108,
+      "is_speaking": true,
+      "raw_bbox": [
+        736.2,
+        187.2,
+        1137.6,
+        588.6
+      ],
+      "padded_roi": [
+        636,
+        87,
+        1238,
+        689
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 109,
+      "is_speaking": true,
+      "raw_bbox": [
+        739.7,
+        188.9,
+        1139.5,
+        588.7
+      ],
+      "padded_roi": [
+        640,
+        89,
+        1239,
+        689
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 110,
+      "is_speaking": true,
+      "raw_bbox": [
+        742.9,
+        192.5,
+        1141.4,
+        591.0
+      ],
+      "padded_roi": [
+        643,
+        93,
+        1241,
+        691
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 111,
+      "is_speaking": true,
+      "raw_bbox": [
+        745.3,
+        196.6,
+        1143.5,
+        594.8
+      ],
+      "padded_roi": [
+        646,
+        97,
+        1243,
+        694
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 112,
+      "is_speaking": true,
+      "raw_bbox": [
+        749.5,
+        200.8,
+        1146.6,
+        597.9
+      ],
+      "padded_roi": [
+        650,
+        102,
+        1246,
+        697
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 113,
+      "is_speaking": true,
+      "raw_bbox": [
+        754.4,
+        203.0,
+        1150.0,
+        598.6
+      ],
+      "padded_roi": [
+        656,
+        104,
+        1249,
+        698
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 114,
+      "is_speaking": true,
+      "raw_bbox": [
+        757.7,
+        201.7,
+        1152.9,
+        596.9
+      ],
+      "padded_roi": [
+        659,
+        103,
+        1252,
+        696
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 115,
+      "is_speaking": true,
+      "raw_bbox": [
+        759.4,
+        197.5,
+        1157.2,
+        595.3
+      ],
+      "padded_roi": [
+        660,
+        98,
+        1257,
+        695
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 116,
+      "is_speaking": true,
+      "raw_bbox": [
+        760.0,
+        191.8,
+        1162.7,
+        594.5
+      ],
+      "padded_roi": [
+        659,
+        91,
+        1263,
+        695
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 117,
+      "is_speaking": true,
+      "raw_bbox": [
+        760.2,
+        185.5,
+        1166.0,
+        591.3
+      ],
+      "padded_roi": [
+        659,
+        84,
+        1267,
+        693
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 118,
+      "is_speaking": true,
+      "raw_bbox": [
+        761.1,
+        180.7,
+        1167.8,
+        587.4
+      ],
+      "padded_roi": [
+        659,
+        79,
+        1269,
+        689
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 119,
+      "is_speaking": true,
+      "raw_bbox": [
+        762.9,
+        177.9,
+        1168.7,
+        583.7
+      ],
+      "padded_roi": [
+        661,
+        76,
+        1270,
+        685
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 120,
+      "is_speaking": false,
+      "raw_bbox": [
+        765.6,
+        176.5,
+        1166.8,
+        577.7
+      ],
+      "padded_roi": [
+        665,
+        76,
+        1267,
+        678
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 121,
+      "is_speaking": false,
+      "raw_bbox": [
+        768.1,
+        175.7,
+        1163.0,
+        570.6
+      ],
+      "padded_roi": [
+        669,
+        77,
+        1262,
+        669
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 122,
+      "is_speaking": false,
+      "raw_bbox": [
+        769.7,
+        174.6,
+        1160.7,
+        565.6
+      ],
+      "padded_roi": [
+        672,
+        77,
+        1258,
+        663
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 123,
+      "is_speaking": false,
+      "raw_bbox": [
+        770.875,
+        174.5,
+        1159.625,
+        563.25
+      ],
+      "padded_roi": [
+        674,
+        77,
+        1257,
+        660
+      ],
+      "track_id": 0
+    },
+    {
+      "frame": 124,
+      "is_speaking": false,
+      "raw_bbox": [
+        771.5,
+        174.0,
+        1159.0,
+        561.5
+      ],
+      "padded_roi": [
+        675,
+        77,
+        1256,
+        658
+      ],
+      "track_id": 0
+    }
+  ]
+}

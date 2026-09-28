@@ -1,0 +1,49 @@
+# Active Speaker Detection & ROI Tracking POC Configuration
+
+media:
+  target_fps: 25
+  target_sr: 16000
+  face_size: 112
+
+tier0_vad:
+  enabled: true
+  model_path: "weights/silero_vad.onnx"
+  threshold: 0.5
+  neg_threshold: 0.35
+  min_speech_ms: 250
+  min_silence_ms: 100
+  speech_pad_ms: 30
+
+tracker:
+  backend: "auto"          # options: "insightface", "mediapipe", "opencv", "auto"
+  detect_every: 2          # Run face detector every N frames, interpolate between
+  det_score_threshold: 0.5
+  iou_threshold: 0.25
+  max_track_gap: 8
+
+tier1_light_asd:
+  enabled: true
+  weights_path: "weights/light_asd.pth"
+  device: "auto"           # "cuda", "cpu", or "auto"
+  mouth_freeze_threshold: 1.0
+
+tier2_laser:
+  enabled: true
+  weights_path: "weights/laser_loconet.pth"
+  device: "auto"
+  selective_trigger_only: true  # Only run on ambiguous / competing / motion_conflict bins
+
+policy:
+  bin_ms: 200
+  min_contiguous_bad_ms: 800
+  min_cumulative_bad_ms: 500
+  min_bad_voiced_ratio: 0.20
+  light_active_threshold: 0.0
+  light_margin: 0.5
+  laser_active_threshold: 0.5
+  laser_margin: 0.15
+  mouth_freeze_threshold: 1.0
+
+roi:
+  smoothing_window: 5
+  padding_scale: 0.25      # Expand face bbox by 25% for downstream AV-DF features
